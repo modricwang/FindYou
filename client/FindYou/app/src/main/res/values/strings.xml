@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">FindYou</string>
+    <string name="demo_name_route">FindYou</string>
+    <string name="demo_title_route">FindYou</string>
+    <string name="demo_desc_route">找到正在使用本软件的另一个用户</string>
+
+</resources>
